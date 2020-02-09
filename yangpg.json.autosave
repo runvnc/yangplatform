@@ -753,6 +753,102 @@
         "metadata": "",
         "name": "jump.wav",
         "userAdded": true
+      },
+      {
+        "file": "coin.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "coin.wav",
+        "userAdded": false
+      },
+      {
+        "file": "397276__whisperbandnumber1__grunt1.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "397276__whisperbandnumber1__grunt1.wav",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Flag_of_Nevada.svg.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flag_of_Nevada.svg.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "orange_noface-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "orange_noface-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "orange_noface-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "orange_noface-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "yuge.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "yuge.wav",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "white.house.22.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "white.house.22.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "kissclipart-white-house-transparent-background-clipart-white-h-890b7318581e1718.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "kissclipart-white-house-transparent-background-clipart-white-h-890b7318581e1718.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "return-of-the-mack.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "return-of-the-mack.mp3",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1280px-Flag_of_South_Carolina.svg.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1280px-Flag_of_South_Carolina.svg.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "60013__qubodup__whoosh.flac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "60013__qubodup__whoosh.flac",
+        "userAdded": true
+      },
+      {
+        "file": "18028_1464273827.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "18028_1464273827.mp3",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -845,41 +941,6 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Platform",
-          "width": 0,
-          "x": 2004,
-          "y": 297,
-          "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Jumpthru",
-          "width": 0,
-          "x": 2173,
-          "y": 86,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
           "name": "Jumpthru",
           "width": 0,
           "x": 755.6,
@@ -906,36 +967,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "width": 0,
-          "x": 2005,
-          "y": 87,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "width": 0,
-          "x": 1974,
-          "y": 391,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "height": 50,
           "layer": "",
@@ -945,21 +976,6 @@
           "x": 275,
           "y": 310,
           "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "MovingPlatform",
-          "width": 0,
-          "x": 1984,
-          "y": 182,
-          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -981,41 +997,6 @@
               "value": 1
             }
           ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "width": 0,
-          "x": 2156,
-          "y": 361,
-          "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "width": 0,
-          "x": 2008,
-          "y": 210,
-          "zOrder": 1,
-          "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
@@ -1152,21 +1133,6 @@
           "locked": false,
           "name": "Platform",
           "width": 0,
-          "x": 2974.06,
-          "y": 247,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "width": 0,
           "x": 2593.6,
           "y": 500.231,
           "zOrder": 1,
@@ -1220,30 +1186,10 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Platform",
-          "width": 0,
-          "x": 1992,
-          "y": 6,
-          "zOrder": 1,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 1
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
           "name": "PlayerHitBox",
           "width": 0,
-          "x": 55,
-          "y": 307,
+          "x": 2936,
+          "y": 353,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1277,8 +1223,8 @@
           "locked": false,
           "name": "SlimeWalk",
           "width": 0,
-          "x": 687.677,
-          "y": 527.461,
+          "x": 1480,
+          "y": 173,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1337,8 +1283,8 @@
           "locked": false,
           "name": "Cloud",
           "width": 0,
-          "x": 2181.78,
-          "y": 59.0157,
+          "x": 2330,
+          "y": -36,
           "zOrder": -2,
           "numberProperties": [
             {
@@ -1875,40 +1821,10 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Fly",
+          "name": "Coin",
           "width": 0,
-          "x": 3103.78,
-          "y": 354.016,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "width": 0,
-          "x": 2834.06,
-          "y": 247,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Platform",
-          "width": 0,
-          "x": 2904.06,
-          "y": 247,
+          "x": 2452,
+          "y": 140,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1922,8 +1838,8 @@
           "locked": false,
           "name": "Coin",
           "width": 0,
-          "x": 2992,
-          "y": 192,
+          "x": 2515,
+          "y": 175,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1937,23 +1853,8 @@
           "locked": false,
           "name": "Coin",
           "width": 0,
-          "x": 2849,
-          "y": 194,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Coin",
-          "width": 0,
-          "x": 2921,
-          "y": 193,
+          "x": 2531,
+          "y": 110,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1991,14 +1892,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 161,
           "layer": "",
           "locked": false,
           "name": "Fly",
-          "width": 0,
-          "x": 2137,
-          "y": 205,
+          "width": 180,
+          "x": 3466,
+          "y": 309,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2178,7 +2079,7 @@
           "name": "NewObject",
           "width": 4223,
           "x": -180,
-          "y": 520,
+          "y": 516,
           "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
@@ -2202,13 +2103,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 399,
+          "height": 714,
           "layer": "",
           "locked": false,
           "name": "wall",
-          "width": 155,
-          "x": -156,
-          "y": 91,
+          "width": 466,
+          "x": -464,
+          "y": -228,
           "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
@@ -2477,8 +2378,8 @@
           "locked": false,
           "name": "SlimeWalk",
           "width": 0,
-          "x": 1763,
-          "y": 181,
+          "x": 2910,
+          "y": 179,
           "zOrder": 49,
           "numberProperties": [],
           "stringProperties": [],
@@ -2528,6 +2429,216 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 101,
+          "layer": "",
+          "locked": false,
+          "name": "GoLeft",
+          "width": 51,
+          "x": 1268,
+          "y": 207,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 91,
+          "layer": "",
+          "locked": false,
+          "name": "TriggerHealth",
+          "width": 536,
+          "x": 1430,
+          "y": 241,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 188,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject8",
+          "width": 348,
+          "x": 1519,
+          "y": 100,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 45,
+          "layer": "",
+          "locked": false,
+          "name": "SCPlatform",
+          "width": 538,
+          "x": 2081,
+          "y": 296,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 46,
+          "layer": "",
+          "locked": false,
+          "name": "SuperTuesday",
+          "width": 510,
+          "x": 2743,
+          "y": 297,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 240,
+          "layer": "",
+          "locked": false,
+          "name": "GoLeft",
+          "width": 60,
+          "x": 3966,
+          "y": 248,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 296,
+          "layer": "",
+          "locked": false,
+          "name": "GoRight",
+          "width": 51,
+          "x": 3197,
+          "y": 200,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "GUI",
+          "locked": false,
+          "name": "NewObject11",
+          "width": 0,
+          "x": 454,
+          "y": 547,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoRight",
+          "width": 0,
+          "x": 2766,
+          "y": 262,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoLeft",
+          "width": 0,
+          "x": 3130,
+          "y": 266,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 441,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject12",
+          "width": 688,
+          "x": 3330,
+          "y": 82,
+          "zOrder": -7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 780,
+          "layer": "",
+          "locked": false,
+          "name": "wall",
+          "width": 484,
+          "x": 4040,
+          "y": -180,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 188,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject13",
+          "width": 348,
+          "x": 2178,
+          "y": 95,
+          "zOrder": -6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "NewObject14",
+          "width": 0,
+          "x": 2255,
+          "y": 314,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -2536,7 +2647,12 @@
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": true,
-          "variables": [],
+          "variables": [
+            {
+              "name": "leftStrikeMoved",
+              "value": "0"
+            }
+          ],
           "behaviors": [],
           "animations": [
             {
@@ -2668,6 +2784,52 @@
                       },
                       "customCollisionMask": []
                     },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "resize\\attack-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "resize\\attack-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
                     {
                       "hasCustomCollisionMask": false,
                       "image": "resize\\attack-2.png",
@@ -3172,6 +3334,10 @@
             {
               "name": "GoingLeft",
               "value": "0"
+            },
+            {
+              "name": "enemyname",
+              "value": "burner"
             }
           ],
           "behaviors": [
@@ -3356,7 +3522,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "flyFly1.png",
+                      "image": "orange_noface-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3369,30 +3535,11 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 0,
-                            "y": 0
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "flyFly2.png",
+                      "image": "orange_noface-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3405,26 +3552,7 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 0,
-                            "y": 0
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -3436,11 +3564,11 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 1,
+                  "timeBetweenFrames": 0.295,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "flyDead.png",
+                      "image": "smoke-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3453,26 +3581,41 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 0,
-                            "y": 0
-                          }
-                        ]
-                      ]
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "smoke-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "smoke-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -4499,7 +4642,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "*Not associated with or endorsed by the Yang campaign. \nGame design by Jason Livesay, character graphics by Melvin Alvarez ",
+          "string": "*Not endorsed by the Yang campaign. \nGame design & programming by Jason Livesay, character graphics by Melvin Alvarez.",
           "font": "",
           "characterSize": 11,
           "color": {
@@ -4572,6 +4715,246 @@
           "variables": [],
           "behaviors": [],
           "string": "Control Healthcare Costs",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "name": "TriggerHealth",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "transparent.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject8",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Flag_of_Nevada.svg.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject9",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "name": "NewObject10",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "height": 32,
+          "name": "SCPlatform",
+          "tags": "",
+          "texture": "grassHalfMid.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "Jumpthru",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 32,
+          "name": "SuperTuesday",
+          "tags": "",
+          "texture": "grassHalfMid.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject11",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Space - Jump   Control - Strike",
+          "font": "",
+          "characterSize": 15,
+          "color": {
+            "b": 174,
+            "g": 210,
+            "r": 241
+          }
+        },
+        {
+          "name": "NewObject12",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "kissclipart-white-house-transparent-background-clipart-white-h-890b7318581e1718.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NewObject13",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "1280px-Flag_of_South_Carolina.svg.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject14",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Democracy Dollars",
           "font": "",
           "characterSize": 20,
           "color": {
@@ -4813,32 +5196,36 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "PlayerHitBox",
+                "TriggerHealth",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "PolicyText",
+                "=",
+                "\"We need to be laser focused on how to bring the costs of coverage down by solving the root problems plaguing the American healthcare system. That means controlling the COST OF PRESCRIPTION DRUGS. That means INVESTING IN INNOVATIVE TECHNOLOGY to cut waste and boost access. That means changing the incentive structure for providers. That means SHIFTING OUR FOCUS on more stages of care. That means revamping what COMPREHENSIVE CARE means in the 21st century to include crucial aspects of WELLBEING. That means taking on the powerful lobbyists in D.C.\""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         },
         {
@@ -5191,7 +5578,255 @@
               "subInstructions": []
             }
           ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "Player"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "leftStrikeMoved",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Player"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "4"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "PlayerHitBox",
+                    "-",
+                    "120"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "leftStrikeMoved",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"showtimer\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "Player"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Player",
+                    "leftStrikeMoved",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "FlippedX"
+                  },
+                  "parameters": [
+                    "Player"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "3"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "0.03",
+                "\"showtimer\""
+              ],
+              "subInstructions": []
+            }
+          ],
           "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "Player",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "RemoveTimer"
+              },
+              "parameters": [
+                "",
+                "\"showtimer\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "LControl"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlippedX"
+              },
+              "parameters": [
+                "Player"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Player"
+              ],
+              "subInstructions": []
+            },
             {
               "type": {
                 "inverted": false,
@@ -5200,7 +5835,86 @@
               "parameters": [
                 "Player",
                 "=",
-                "3"
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreX"
+              },
+              "parameters": [
+                "PlayerHitBox",
+                "+",
+                "120"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Player",
+                "leftStrikeMoved",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"showtimer\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "LControl"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "18028_1464273827.mp3",
+                "",
+                "",
+                "1"
               ],
               "subInstructions": []
             }
@@ -5226,7 +5940,39 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::And"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "LControl"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "LControl"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
           "actions": [
             {
               "type": {
@@ -5752,6 +6498,18 @@
                 "no"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "trumpSize",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -6004,7 +6762,7 @@
                   },
                   "parameters": [
                     "Player",
-                    "Enemy",
+                    "SlimeWalk",
                     ""
                   ],
                   "subInstructions": []
@@ -6049,7 +6807,7 @@
                         "value": "ChangeAnimation"
                       },
                       "parameters": [
-                        "Enemy",
+                        "SlimeWalk",
                         "=",
                         "1"
                       ],
@@ -6073,7 +6831,7 @@
                         "value": "PlatformBehavior::Gravity"
                       },
                       "parameters": [
-                        "Enemy",
+                        "SlimeWalk",
                         "PlatformerObject",
                         "=",
                         "1500"
@@ -6128,8 +6886,51 @@
                         }
                       ],
                       "events": []
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [],
+                      "events": []
                     }
                   ]
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "LControl"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "397276__whisperbandnumber1__grunt1.wav",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
                 },
                 {
                   "disabled": false,
@@ -6158,6 +6959,152 @@
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [],
                   "actions": [],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Fly",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "PlayerHitBox",
+                    "Enemy",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "LControl"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarScene"
+                      },
+                      "parameters": [
+                        "trumpHit",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "trumpHit",
+                        "=",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "Fly",
+                        "PlatformerObject",
+                        "yes"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ChangeScale"
+                      },
+                      "parameters": [
+                        "Fly",
+                        "*",
+                        "1.2"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "yuge.wav",
+                        "",
+                        "",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarScene"
+                      },
+                      "parameters": [
+                        "trumpSize",
+                        "*",
+                        "1.2"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
                   "events": []
                 }
               ]
@@ -6189,16 +7136,105 @@
               "disabled": false,
               "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [],
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "LControl"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "trumpHit",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "trumpHit",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
               "events": []
             },
             {
               "disabled": false,
               "folded": false,
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [],
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "trumpSize",
+                    ">",
+                    "2.5"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ChangeAnimation"
+                  },
+                  "parameters": [
+                    "Fly",
+                    "=",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "trumpSize",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "return-of-the-mack.mp3",
+                    "no",
+                    "",
+                    "1"
+                  ],
+                  "subInstructions": []
+                }
+              ],
               "events": []
             },
             {
